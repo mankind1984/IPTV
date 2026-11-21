@@ -29,5 +29,9 @@ http://123.117.173.7:8118/rtp/239.3.1.175:8001
 http://123.117.173.7:8118/rtp/239.3.1.62:8112
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视频道",CCTV10
 http://123.117.173.7:8118/rtp/239.3.1.63:8116
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://49.233.180.193:5678/data/icon/CCTV16.png" group-title="央视频道",CCTV16
-http://123.117.173.7:8118/rtp/239.3.1.184:8001,http://home.zgnc.fun:8821/rtp/239.3.1.184:8001,http://www.irisxxd.cn:8000/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-id="CCTV16.cn" tvg-name="CCTV16" tvg-logo="http://49.233.180.193:5678/data/icon/CCTV16.png" group-title="央视频道",CCTV16
+http://123.117.173.7:8118/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-id="CCTV16.cn" tvg-name="CCTV16" tvg-logo="http://49.233.180.193:5678/data/icon/CCTV16.png" group-title="央视频道",CCTV16
+http://home.zgnc.fun:8821/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-id="CCTV16.cn" tvg-name="CCTV16" tvg-logo="http://49.233.180.193:5678/data/icon/CCTV16.png" group-title="央视频道",CCTV16
+http://www.irisxxd.cn:8000/rtp/239.3.1.184:8001
