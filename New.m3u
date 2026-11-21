@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml" tvg-shift="0"
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视频道",CCTV1
 http://123.117.173.7:8118/rtp/239.3.1.129:8008
 http://123.117.173.7:8118/rtp/239.3.1.129:8008
